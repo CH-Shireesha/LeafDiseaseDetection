@@ -92,8 +92,8 @@ function FileUpload() {
             style={{
               borderRadius: "2%",
               borderWidth: "3px",
-              minHeight: "55vh",
-              maxHeight: "55vh",
+              // minHeight: "55vh",
+              // maxHeight: "55vh",
             }}
           >
             <Card.Header>Browse Image</Card.Header>
@@ -137,8 +137,8 @@ function FileUpload() {
             style={{
               borderRadius: "2%",
               borderWidth: "3px",
-              minHeight: "55vh",
-              maxHeight: "55vh",
+              // minHeight: "55vh",
+              // maxHeight: "55vh",
             }}
           >
             <Card.Header>Predicted Output</Card.Header>

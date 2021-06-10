@@ -88,8 +88,8 @@ function VideoClassifier() {
             style={{
               borderRadius: "2%",
               borderWidth: "3px",
-              minHeight: "55vh",
-              maxHeight: "55vh",
+              // minHeight: "55vh",
+              // maxHeight: "55vh",
             }}
           >
             <Card.Header>Web Cam</Card.Header>
@@ -150,8 +150,8 @@ function VideoClassifier() {
             style={{
               borderRadius: "2%",
               borderWidth: "3px",
-              minHeight: "55vh",
-              maxHeight: "55vh",
+              // minHeight: "55vh",
+              // maxHeight: "55vh",
             }}
           >
             <Card.Header>Predicted Output</Card.Header>
