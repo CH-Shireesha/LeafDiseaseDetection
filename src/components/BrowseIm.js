@@ -147,7 +147,7 @@ function FileUpload() {
                 display: "flex",
                 flexDirection: "column",
                 alignItems: "center",
-                justifyContent: "centerloader ",
+                justifyContent: "center",
               }}
             >
               {result.length > 0 ? (
