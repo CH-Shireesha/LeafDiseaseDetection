@@ -124,21 +124,19 @@ function VideoClassifier() {
                   flexDirection: "column",
                 }}
               >
-                <div>
-                    <video
-                      ref={videoRef}
-                      style={{ transform: "scale(-1, 1)" }}
-                      width="200"
-                      height="150"
-                    />
-                    <br></br>
-                    {loaded && (
-                      <button className="btn btn-success" onClick={() => toggle()}>
-                        {start ? "Stop" : "Start"}
-                      </button>
-                    )}
-                </div>
-            </div>
+                <video
+                  ref={videoRef}
+                  style={{ transform: "scale(-1, 1)" }}
+                  width="200"
+                  height="150"
+                />
+                <br></br>
+                {loaded && (
+                  <button className="btn btn-success" onClick={() => toggle()}>
+                    {start ? "Stop" : "Start"}
+                  </button>
+                )}
+              </div>
             </Card.Body>
           </Card>
         </Col>
