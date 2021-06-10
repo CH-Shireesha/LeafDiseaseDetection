@@ -88,7 +88,7 @@ function VideoClassifier() {
             style={{
               borderRadius: "2%",
               borderWidth: "3px",
-              // minHeight: "55vh",
+              minHeight: "55vh",
               // maxHeight: "55vh",
             }}
           >
@@ -150,7 +150,7 @@ function VideoClassifier() {
             style={{
               borderRadius: "2%",
               borderWidth: "3px",
-              // minHeight: "55vh",
+              minHeight: "55vh",
               // maxHeight: "55vh",
             }}
           >
