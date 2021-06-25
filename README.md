@@ -68,10 +68,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-### Web Application deployed in vercel
-https://leaf-disease-detection.vercel.app/
-
-### Mobile Application
-https://www.amazon.com/dp/B097K5RLS1/ref=apps_sf_sta (Download the application from given link)
-

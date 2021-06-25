@@ -1,0 +1,6 @@
+{
+	"appId": "com.LeafDiseasePredictor.app",
+	"appName": "LeafDiseasePredictor",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
